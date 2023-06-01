@@ -1,4 +1,5 @@
 # Lab_3
+```
 import sys
 
 def find_pairs(numbers):
@@ -21,3 +22,4 @@ if __name__ == "__main__":
     pairs = find_pairs(numbers)  
     for pair in pairs:   
         print(f"{pair[0]} + {pair[1]}")
+```
